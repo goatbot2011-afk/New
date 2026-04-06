@@ -8,7 +8,7 @@ module.exports = {
     aliases: ["tm", "match3"],
     version: "1.9",
     countDown: 5,
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     description: "Aligne 3 lignes aléatoires et gagne x1, x2 ou JACKPOT avec animation",
     category: "game",
     role: 0,

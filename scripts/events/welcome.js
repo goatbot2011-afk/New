@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "welcome",
     version: "2.0",
-    author: "Saimx69x",
+    author: "꯱hᥲძᥱ",
     category: "events"
   },
 
@@ -47,7 +47,7 @@ module.exports = {
 
         await api.sendMessage({
           body:
-            `‎𝐇𝐞𝐥𝐥𝐨 ${fullName}\n` +
+            `🎀 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ${fullName} 💖\n` +
             `𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 ${groupName}\n` +
             `𝐘𝐨𝐮'𝐫𝐞 𝐭𝐡𝐞 ${memberCount} 𝐦𝐞𝐦𝐛𝐞𝐫 𝐨𝐧 𝐭𝐡𝐢𝐬 𝐠𝐫𝐨𝐮𝐩, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐞𝐧𝐣𝐨𝐲 🎉\n` +
             `━━━━━━━━━━━━━━━━\n` +

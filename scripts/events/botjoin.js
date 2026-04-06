@@ -3,10 +3,10 @@ const fs = require("fs-extra");
 const path = require("path");
 
 const ownerInfo = {
-  name: "۝𝐶𝐻𝑅𝐼𝑆𝑇𝑈𝑆۝",
-  facebook: "https://www.facebook.com/Anos.Christus",
-  telegram: "ᏉᎾᏆᎧ ᎿᎬᏁ",
-  supportGroup: "🌝🌚"
+  name: "『𓋜』 ⚉ 𝗦𝗛𝗔𝗗𝗘 ⃢🩷 ✱ꪔ̤̱",
+  facebook: "https://www.facebook.com/Chris.shade.2026",
+  telegram: "𝐒𝐡𝐚𝐝𝐞 𝐂𝐡𝐚𝐧",
+  supportGroup: "💞 𝑺𝒉𝒂𝒅𝒆 𝑮𝒂𝒏𝒈 💞"
 };
 
 module.exports = {
@@ -52,7 +52,7 @@ module.exports = {
       fs.writeFileSync(imagePath, response.data);
 
       const textMsg = [
-        "🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐢𝐧𝐯𝐢𝐭𝐢𝐧𝐠 𝐦𝐞 🎀",
+        "『𓋜』 ⚉ 𝐌𝐞𝐫𝐜𝐢 𝐝𝐞 𝐦’𝐚𝐯𝐨𝐢𝐫 𝐚𝐣𝐨𝐮𝐭𝐞́ ⃢🩷 ✱ꪔ̤̱",
         `🔹 𝐁𝐨𝐭 𝐩𝐫𝐞𝐟𝐢𝐱: ${prefix}`,
         `🔸 𝐓𝐲𝐩𝐞: ${prefix}help 𝐭𝐨 𝐬𝐞𝐞 𝐚𝐥𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬`,
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
@@ -75,7 +75,7 @@ module.exports = {
       
       const fallbackMsg = [
         "❌ 𝐈𝐦𝐚𝐠𝐞 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐟𝐚𝐢𝐥𝐞𝐝. 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:",
-        "🎀 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐢𝐧𝐯𝐢𝐭𝐢𝐧𝐠 𝐦𝐞 🎀",
+        "『𓋜』 ⚉ 𝐌𝐞𝐫𝐜𝐢 𝐝𝐞 𝐦’𝐚𝐯𝐨𝐢𝐫 𝐚𝐣𝐨𝐮𝐭𝐞́ ⃢🩷 ✱ꪔ̤̱",
         `🔹 𝐁𝐨𝐭 𝐩𝐫𝐞𝐟𝐢𝐱: ${prefix}`,
         `🔸 𝐓𝐲𝐩𝐞: ${prefix}help 𝐭𝐨 𝐬𝐞𝐞 𝐚𝐥𝐥 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬`,
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",

@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "cpanel",
     version: "5.1",
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     description: "Génère un tableau de bord futuriste en hexagones avec des bordures luminescentes.",
     usage: "cpanel",
     category: "system",

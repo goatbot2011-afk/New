@@ -25,16 +25,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61580333625022",
-    "61568791604271"
+    "61573867120837",
+    "61576961183967"
   ],
   "developer": [
-    "61580333625022",
-    "61568791604271"
+    "61573867120837",
+    "61576961183967"
   ],
   "vipuser": [
-    "61580333625022",
-    "61568791604271"
+    "61573867120837",
+    "61576961183967"
   ],
   "reactBy": {
     "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -45,8 +45,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "۝𝐶𝐻𝑅𝐼𝑆𝑇𝑈𝑆۝",
-  "prefix": "¥",
+  "nickNameBot": "ʚ🫧 𝘈𝘦𝘴𝘵𝘩𝘦𝘳 𝘚𝘩𝘢𝘥𝘦 🫧ɞ",
+  "prefix": "!",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
@@ -57,7 +57,7 @@
   "timeZone": "Asia/Dhaka",
     "credentials": {
     "gmailAccount": {
-      "email": "maybesaim12@gmail.com",
+      "email": "chrisshade383@gmail.com",
       "clientId": "100897454411-5r8hk9opvdijmogm98ksttg4asvfs3u6.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04CwY3A993tGWCgYIARAAGAQSNwF-L9IrEMdVj25IWIOrpT0HX7Lo4YXx6ce0JP-C3GjKoyWSFb_-f_N3oHRL15ZwrsQ8TpBsjmI",

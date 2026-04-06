@@ -15,7 +15,7 @@ module.exports = {
   config: {
     name: "activity",
     version: "5.1",
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     countDown: 5,
     role: 0,
     description: "Generate flashy activity dashboard with custom background and themes",

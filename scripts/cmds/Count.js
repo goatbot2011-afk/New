@@ -2,7 +2,7 @@ module.exports = {
 	config: {
 		name: "count",
 		version: "2.5", 
-		author: "Christus", 
+		author: "꯱hᥲძᥱ", 
 		countDown: 10,
 		role: 0,
 		description: {

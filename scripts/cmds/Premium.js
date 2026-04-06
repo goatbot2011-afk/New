@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "premium",
     version: "2.2",
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     countDown: 5,
     role: 2,
     description: {

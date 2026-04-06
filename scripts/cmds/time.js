@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "time",
     version: "1.0",
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     role: 0,
     countDown: 3,
     shortDescription: "Récupère une carte de temps stylée depuis l'API",

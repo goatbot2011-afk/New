@@ -6,7 +6,7 @@ module.exports = {
     name: "age",
     aliases: ["agecalc", "agecalculator"],
     version: "1.0",
-    author: "Christus",
+    author: "꯱hᥲძᥱ",
     countDown: 5,
     role: 0,
     shortDescription: { fr: "Calculer l'âge à partir de la date de naissance" },
